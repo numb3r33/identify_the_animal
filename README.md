@@ -1,5 +1,11 @@
 # Description
-1st place solution to Deep Learning Beginner Challenge.
+1st place solution of Deep Learning Beginner Challenge.
+
+# Problem Statement
+[Challenge](https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-9de79188/)
+
+# Detailed Writeup
+[How I won Deep Learning Beginner Challenge ?](https://medium.com/@numb3r303_59126/how-i-won-deep-learning-beginner-challenge-3b7d9e12b5d5)
 
 # How to reproduce ?
 - Place data in ./data/raw/HE_DL/
